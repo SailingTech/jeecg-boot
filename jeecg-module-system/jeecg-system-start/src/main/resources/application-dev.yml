@@ -1,5 +1,5 @@
 server:
-  port: 8080
+  port: 9090
   tomcat:
     max-swallow-size: -1
   error:
@@ -26,7 +26,7 @@ spring:
       max-request-size: 10MB
   mail:
     host: smtp.163.com
-    username: jeecgos@163.com
+    username: ch25ch@163.com
     password: ??
     properties:
       mail:
@@ -133,9 +133,9 @@ spring:
           slow-sql-millis: 5000
       datasource:
         master:
-          url: jdbc:mysql://127.0.0.1:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false&tinyInt1isBit=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
-          username: root
-          password: root
+          url: jdbc:mysql://124.221.148.171:3306/jeecg-boot?characterEncoding=UTF-8&useUnicode=true&useSSL=false&tinyInt1isBit=false&allowPublicKeyRetrieval=true&serverTimezone=Asia/Shanghai
+          username: master
+          password: Cc_master.2010
           driver-class-name: com.mysql.cj.jdbc.Driver
           # 多数据源配置
           #multi-datasource1:
@@ -146,9 +146,9 @@ spring:
   #redis 配置
   redis:
     database: 0
-    host: 127.0.0.1
+    host: 124.221.148.171
     port: 6379
-    password: ''
+    password: sc_2023@CC
 #mybatis plus 设置
 mybatis-plus:
   mapper-locations: classpath*:org/jeecg/modules/**/xml/*Mapper.xml

@@ -1,21 +1,8 @@
 
-
-![JEECG](https://jeecgos.oss-cn-beijing.aliyuncs.com/files/logov3.png "JeecgBoot低代码开发平台")
-
-
-
 JEECG BOOT 低代码开发平台
 ===============
 
 当前最新版本： 3.5.5（发布日期：2023-09-22） 
-
-
-[![AUR](https://img.shields.io/badge/license-Apache%20License%202.0-blue.svg)](https://github.com/zhangdaiscott/jeecg-boot/blob/master/LICENSE)
-[![](https://img.shields.io/badge/Author-北京国炬软件-orange.svg)](http://jeecg.com/aboutusIndex)
-[![](https://img.shields.io/badge/Blog-官方博客-blue.svg)](https://jeecg.blog.csdn.net)
-[![](https://img.shields.io/badge/version-3.5.5-brightgreen.svg)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub stars](https://img.shields.io/github/stars/zhangdaiscott/jeecg-boot.svg?style=social&label=Stars)](https://github.com/zhangdaiscott/jeecg-boot)
-[![GitHub forks](https://img.shields.io/github/forks/zhangdaiscott/jeecg-boot.svg?style=social&label=Fork)](https://github.com/zhangdaiscott/jeecg-boot)
 
 
 
@@ -33,7 +20,6 @@ JeecgBoot 提供了一系列`低代码模块`，实现在线开发`真正的零�
 
 `JEECG业务流程:` 采用工作流来实现、扩展出任务接口，供开发编写业务逻辑，表单提供多种解决方案： 表单设计器、online配置表单、编码表单。同时实现了流程与表单的分离设计（松耦合）、并支持任务节点灵活配置，既保证了公司流程的保密性，又减少了开发人员的工作量。
 
-遇到技术问题，[请在这里反馈BUG](https://github.com/jeecgboot/jeecg-boot/issues/new)
 
 适用项目
 -----------------------------------
